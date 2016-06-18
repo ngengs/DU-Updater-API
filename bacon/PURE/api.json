@@ -1,35 +1,41 @@
 {
-  "dev_info": 
+  "dev_info":
   [
     {
+      "filename": "DU_bacon_6.0.1_20160618-0311.v10.3-PURE.zip",
+      "filesize": 297792546,
+      "downloads": "http:\/\/download.ngengs.com\/dirtyunicorns\/bacon\/DU_bacon_6.0.1_20160618-0311.v10.3-PURE.zip",
+      "direct": true
+    },
+    {
       "filename": "DU_bacon_6.0.1_20160610-1616.v10.3-PURE.zip",
-      "downloads": "https:\/\/www.androidfilehost.com\/?fid=24562946973632025",
-      "direct": false
+      "filesize": 296997217,
+      "downloads": "http:\/\/download.ngengs.com\/dirtyunicorns\/bacon\/DU_bacon_6.0.1_20160610-1616.v10.3-PURE.zip",
+      "direct": true
     },
     {
       "filename": "DU_bacon_6.0.1_20160604-1427.v10.2-PURE.zip",
-      "downloads": "http:\/\/www.androidfilehost.com\/?fid=24562946973631579",
-      "direct": false
+      "filesize": 303955562,
+      "downloads": "http:\/\/download.ngengs.com\/dirtyunicorns\/bacon\/DU_bacon_6.0.1_20160604-1427.v10.2-PURE.zip",
+      "direct": true
     },
     {
       "filename": "DU_bacon_6.0.1_20160529-1853.v10.2-PURE-UNICORNS-EDITION.zip",
-      "downloads": "http:\/\/www.androidfilehost.com\/?fid=24562946973631576",
-      "direct": false
+      "filesize": 303935259,
+      "downloads": "http:\/\/download.ngengs.com\/dirtyunicorns\/bacon\/DU_bacon_6.0.1_20160529-1853.v10.2-PURE-UNICORNS-EDITION.zip",
+      "direct": true
     },
     {
       "filename": "DU_bacon_6.0.1_20160523-1914.v10.2-PURE-UNICORNS-EDITION.zip",
-      "downloads": "http:\/\/www.androidfilehost.com\/?fid=24562946973630724",
-      "direct": false
+      "filesize": 302155483,
+      "downloads": "http:\/\/download.ngengs.com\/dirtyunicorns\/bacon\/DU_bacon_6.0.1_20160523-1914.v10.2-PURE-UNICORNS-EDITION.zip",
+      "direct": true
     },
     {
       "filename": "DU_bacon_6.0.1_20160514-0006.v10.2-PURE-UNICORNS-EDITION.zip",
-      "downloads": "http:\/\/www.androidfilehost.com\/?fid=24533100289591212",
-      "direct": false
-    },
-    {
-      "filename": "DU_bacon_6.0.1_20160511-1254.v10.2-PURE-UNICORNS-EDITION.zip",
-      "downloads": "http:\/\/www.androidfilehost.com\/?fid=24533100289590897",
-      "direct": false
+      "filesize": 304305161,
+      "downloads": "http:\/\/download.ngengs.com\/dirtyunicorns\/bacon\/DU_bacon_6.0.1_20160514-0006.v10.2-PURE-UNICORNS-EDITION.zip",
+      "direct": true
     }
   ]
 }
